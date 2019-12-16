@@ -4,11 +4,10 @@ title: Clase de Introduccion
 ---
 
 
-#  Esta son las clases de Introduccion 
 
 
 
-
+##  ¿ Que es la Ingenieria en Software?
 ## Objectivo de la ingeniera en Sotware
 1)   Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
 
