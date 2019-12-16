@@ -1,0 +1,91 @@
+---
+layout: post
+title: Clase de Introduccion 
+---
+
+# ¿Que es la ingeniera en Software?
+es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
+
+## Objectivo de la ingeniera en Sotware
+1)   Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
+
+2)   Liderar y acoplar el desarrollo de programaciones complicadas.
+
+3)     Actuar en todas las fases del ciclo de vida de un producto.
+
+4) Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
+
+5)   Realizar el seguimiento de costes y plazos.
+
+6)   Liderar equipos de trabajo de desarrollo software.
+
+###   crisis del software
+
+Primera Fase. Los albores (1945-1955)
+Segunda Fase. El florecimiento (1955-1965)
+Tercera Fase. La crisis (1965-1970)
+Cuarta Fase. Innovación conceptual (1970-1980)
+Quinta Fase. El diseño es el problema (1980-?)
+
+####   ¿Por qué se crea la IS?
+La ingeniería de software se crea debido a las siguientes características:
+
+El producto debe ser confiable y realizar sólo las tareas especificadas en los requerimientos. 
+El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio. 
+El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere. 
+El producto de software debe ser eficiente en el uso de los recursos del sistema
+
+#####   El software en la actualidad
+Metodologías ágiles: métodos de desarrollo de software basados en procesos iterativos e incrementales, donde los requisitos y soluciones evolucionan durante la colaboración.
+
+Experimentación: es una rama de la ingeniería del software interesada en realizar experimentos sobre software, recolectar datos y deducir leyes y teorías de los mismos.
+
+Desarrollo dirigido por modelos: primero se desarrollan modelos textuales  gráficos del software a construir, y posteriormente se construye el software.
+
+Líneas de productos software, en lugar de productos individuales.
+
+######    ¿Qué es un proyecto software?
+
+Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado únic
+
+
+####### Vision general del Software
+Definición ~ Análisis (del sistema, del sw).
+Desarrollo ~ Diseño, codificación, prueba.
+Mantenimiento.  
+
+######## Proceso de la Ingenieria en Sofware
+Especificación.
+Diseño e implementación.
+Validación.
+Evolución.
+
+######### Otras Caracteristica del Proceso Software
+Comprensión:   Está definido y es comprensible
+Visibilidad:   Se visualizan los progresos externamente
+Soporte:    Está soportado por herramientas CASE
+Aceptación:   Es aceptable para todos los actores implicados
+Confianza:   Los errores del proceso se detectan antes de que se produzcan errores en el producto
+
+########## Ciclo de vida del Software
+
+El ciclo de vida del software consiste de las siguientes fases: 
+1)   Analisis
+2)   diseño
+3)   implementacion
+4)   prueba
+5)   mantenimiento
+
+###########  Modelos de procesos de software
+
+1)      El modelo de cascada 
+
+2)      El desarrollo incremental 
+
+3)      Espiral
+
+4)     Desarrollo Rápido de Aplicaciones (DRA)
+
+5)      Orientados a la reutilización
+
+6)      Orientado a Objetos (OO)
