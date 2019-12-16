@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Andres David Romero Alvarado
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Bienvenido a mi Web Personal 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/s960x960/44862236_1907249679360623_2683272683507941376_o.jpg?_nc_cat=101&_nc_oc=AQnG7Dz7BSExp1is38rvkrYhXdBxA0G3XTo7ScM_-yBIcEiljHyKJSs8Js60NktV6jw&_nc_ht=scontent.fgye1-1.fna&oh=5a270c348cf958d23903b5e2693685a5&oe=5E696866
 
 #
 # Flags below are optional
@@ -18,18 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email:  andresromero140201@gmail.com
+  facebookhttps:  andresdavid.romeroalvarado
+  
+  instagram: andres_121015/?hl=es-la
+  github:    andyromero14
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
