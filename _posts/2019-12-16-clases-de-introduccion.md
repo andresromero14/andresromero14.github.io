@@ -48,26 +48,25 @@ Líneas de productos software, en lugar de productos individuales.
 
 Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado únic
 
-
-####### Vision general del Software
+###### Vision general del software
 Definición ~ Análisis (del sistema, del sw).
 Desarrollo ~ Diseño, codificación, prueba.
 Mantenimiento.  
 
-######## Proceso de la Ingenieria en Sofware
+######  Proceso de la ingenieria de software
 Especificación.
 Diseño e implementación.
 Validación.
 Evolución.
 
-######### Otras Caracteristica del Proceso Software
+###### Otras caracterisitca del Software
 Comprensión:   Está definido y es comprensible
 Visibilidad:   Se visualizan los progresos externamente
 Soporte:    Está soportado por herramientas CASE
 Aceptación:   Es aceptable para todos los actores implicados
 Confianza:   Los errores del proceso se detectan antes de que se produzcan errores en el producto
 
-########## Ciclo de vida del Software
+###### Ciclo de vida del Software
 
 El ciclo de vida del software consiste de las siguientes fases: 
 1)   Analisis
@@ -75,9 +74,7 @@ El ciclo de vida del software consiste de las siguientes fases:
 3)   implementacion
 4)   prueba
 5)   mantenimiento
-
-###########  Modelos de procesos de software
-
+######   Modelos de proceso de Software
 1)      El modelo de cascada 
 
 2)      El desarrollo incremental 
