@@ -2,7 +2,8 @@
 layout:  post
 title:  Biografia
 ---
-##
+
+## Mi Biografia 
 Hola soy Andres David Romero Alvarado, actualmente estoy cursando el primer semestre de la carrera de ingenieria en software en la universidad de guayaquil.
 estoy interesado en la tecnologi. Soy  un  amante a los deportes y en mis tiempos libres me gusta jugar videojuegos. Escogi la carrera de ingenieria de software
 por la razon de que el mundo va avanzando y asi mismo la tecnologia, el futuro tendra muchas  cosas que ver con la tecnologia y que mas que estudiar algo que me gusta
