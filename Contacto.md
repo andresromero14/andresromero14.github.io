@@ -10,4 +10,4 @@ title: Contactame Por Medio de Mis Redes Sociales
 [![alt text](https://cdn.icon-icons.com/icons2/1269/PNG/128/1497553304-104_84834.png "Logo Title Text 1")](https://www.instagram.com/andres_121015/)
 
 
-[![alt text](https://github.com/ "Logo Title Text 1")](https://github.com/andyromero14)
+[![alt text](https://1.bp.blogspot.com/-LFIwW7BF3S4/XfrItYYS6VI/AAAAAAAAPEs/KKRvQawfweoAKcYSCX6qTqJPpfKpAdDFwCNcBGAsYHQ/s1600/GitHub-Mark1.png "Logo Title Text 1")](https://github.com/andyromero14)
