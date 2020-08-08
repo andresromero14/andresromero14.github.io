@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduccion a La Ingenieria en Software / Proyecto
+title: Estudios Realizados 
 ---
 
 
