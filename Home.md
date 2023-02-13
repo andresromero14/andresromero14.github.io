@@ -2,4 +2,4 @@
 layout: post
 title: Cree una pagina WEB personal utilizando markdown  para github pages 
 ---
-![alt text](https://www.udea.edu.co/wps/wcm/connect/udea/95794179-b319-4f47-bb63-41880e921862/1/banner-bienvenidos.jpg?MOD=AJPERES)
+![alt text](https://th.bing.com/th/id/OIP.xRYXrvBaFT07G3Afc8iKIwHaEK?pid=ImgDet&rs=1)
