@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estudios Realizados 
+title: Proyectos 
 ---
 
 ![alt text](https://ivanmb.com/wp-content/uploads/2014/11/consejos-para-encontrar-empleo.png)
