@@ -17,4 +17,4 @@ Un proyecto que a futuro pienso hacer es desarrollar un juego de razonamiento in
 ## Seguridad Informatica
 Siempre me ha interasado saber como se maneja esto y  si se me da  la oportunidad seria muy factible trabajar en alguna empresa que emplee  dicho tema.
 
-![alt text](https://obsbusiness.school/sites/default/files/styles/blog_post/public/post/istock-673891964_0.jpg?itok=d31visSg)
+![alt text](https://th.bing.com/th/id/OIP.wCOVtMhX0C51WFaMwG5OGAHaDt?pid=ImgDet&rs=1)
