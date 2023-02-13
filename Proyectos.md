@@ -5,8 +5,9 @@ title: Proyectos
 
 ![alt text](https://ivanmb.com/wp-content/uploads/2014/11/consejos-para-encontrar-empleo.png)
 
-## Educación Primaria
-Unidad Educativa Particular Mayor Horacio Zurita Bayas 2007-2012
+## Delicias Romero Alvarado
+https://andresromero14.github.io/DeliciasRomero.github.io
+Esta es una pagina web sobre un restaurante de comidas gourmet.
 ## Educación Secundaria
 Unidad Educativa Particular San Benildo La Salle  2013-2019
 ## Educación Superior 
