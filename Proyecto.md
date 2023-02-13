@@ -6,7 +6,9 @@ title: Proyectos
 ![alt text](https://th.bing.com/th/id/OIP.xUZdnezjQQ855imBFzzjzAHaE7?pid=ImgDet&rs=1)
 
 ## Delicias Romero Alvarado
-<a href="https://andresromero14.github.io/DeliciasRomero.github.io"</a>
+[![alt text](https://i.pinimg.com/originals/6e/33/53/6e3353a2b79576ffdfb645abd6585116.jpg)]
+(https://andresromero14.github.io/DeliciasRomero.github.io/)
+
 Esta es una pagina web sobre un restaurante de comidas gourmet.
 
 ## Creacion de Página Web
