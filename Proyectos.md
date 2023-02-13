@@ -3,7 +3,7 @@ layout: post
 title: Proyectos 
 ---
 
-![alt text](https://ivanmb.com/wp-content/uploads/2014/11/consejos-para-encontrar-empleo.png)
+![alt text](https://th.bing.com/th/id/OIP.xUZdnezjQQ855imBFzzjzAHaE7?pid=ImgDet&rs=1)
 
 ## Delicias Romero Alvarado
 https://andresromero14.github.io/DeliciasRomero.github.io
