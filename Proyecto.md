@@ -12,9 +12,10 @@ https://andresromero14.github.io/DeliciasRomero.github.io/
 ## Creacion de Página Web
 https://andresromero14.github.io/crearpaginaweb/
 #### Esta es una pagina web sobre la elecciones de alcalde de la ciudad de Guayaquil del 2023
+
 ## Pagina de la Clase de POE
- https://andresromero14.github.io/POE-5-1/
- #### Esta es la pagina de la clase de POE
+https://andresromero14.github.io/POE-5-1/
+#### Esta es la pagina de la clase de POE
 
 
 
